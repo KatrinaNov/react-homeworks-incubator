@@ -1,0 +1,51 @@
+.message {
+    display: flex;
+    align-items: flex-end;
+    padding: 30px;
+}
+.image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 10px;
+}
+.image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.text {
+    position: relative;
+    background: #389d75;
+    padding: 20px;
+    border-radius: 20px 20px 20px 0;
+    width: 100%;
+    max-width: 500px;
+    color: #fff;
+    font-size: 20px;
+}
+.text:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transform: translateX(calc(-100% + 2px));
+    width: 27px;
+    height: 25px;
+    background: radial-gradient(circle at top left, transparent 66%, #389d75 68%);
+}
+.text p {
+    margin: 10px 0;
+}
+.author {
+    font-weight: 700;
+    color: #d6cfbd;
+}
+.time {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-size: 14px;
+    opacity: 0.8;
+}
