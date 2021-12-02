@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/react-homeworks-incubator/static/css/main.b5ee7b58.chunk.css",
-    "main.js": "/react-homeworks-incubator/static/js/main.80cf7078.chunk.js",
-    "main.js.map": "/react-homeworks-incubator/static/js/main.80cf7078.chunk.js.map",
+    "main.css": "/react-homeworks-incubator/static/css/main.6e971083.chunk.css",
+    "main.js": "/react-homeworks-incubator/static/js/main.6ffe971c.chunk.js",
+    "main.js.map": "/react-homeworks-incubator/static/js/main.6ffe971c.chunk.js.map",
     "runtime-main.js": "/react-homeworks-incubator/static/js/runtime-main.d3676d03.js",
     "runtime-main.js.map": "/react-homeworks-incubator/static/js/runtime-main.d3676d03.js.map",
-    "static/js/2.038e7b06.chunk.js": "/react-homeworks-incubator/static/js/2.038e7b06.chunk.js",
-    "static/js/2.038e7b06.chunk.js.map": "/react-homeworks-incubator/static/js/2.038e7b06.chunk.js.map",
+    "static/js/2.0e7ccee9.chunk.js": "/react-homeworks-incubator/static/js/2.0e7ccee9.chunk.js",
+    "static/js/2.0e7ccee9.chunk.js.map": "/react-homeworks-incubator/static/js/2.0e7ccee9.chunk.js.map",
     "index.html": "/react-homeworks-incubator/index.html",
-    "static/css/main.b5ee7b58.chunk.css.map": "/react-homeworks-incubator/static/css/main.b5ee7b58.chunk.css.map",
-    "static/js/2.038e7b06.chunk.js.LICENSE.txt": "/react-homeworks-incubator/static/js/2.038e7b06.chunk.js.LICENSE.txt"
+    "static/css/main.6e971083.chunk.css.map": "/react-homeworks-incubator/static/css/main.6e971083.chunk.css.map",
+    "static/js/2.0e7ccee9.chunk.js.LICENSE.txt": "/react-homeworks-incubator/static/js/2.0e7ccee9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-homeworks-incubator/static/media/tree.54d70d52.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d3676d03.js",
-    "static/js/2.038e7b06.chunk.js",
-    "static/css/main.b5ee7b58.chunk.css",
-    "static/js/main.80cf7078.chunk.js"
+    "static/js/2.0e7ccee9.chunk.js",
+    "static/css/main.6e971083.chunk.css",
+    "static/js/main.6ffe971c.chunk.js"
   ]
 }
