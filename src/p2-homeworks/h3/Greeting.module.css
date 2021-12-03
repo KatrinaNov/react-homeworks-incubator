@@ -45,7 +45,7 @@
     border: 2px solid darkgreen;
     border-radius: 0 10px 10px 0;
 }
-button:disabled {
+.inputGroup button:disabled {
     border-color: red;
     background: darkslategray;
 }
