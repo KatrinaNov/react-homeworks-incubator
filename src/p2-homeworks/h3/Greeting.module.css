@@ -9,6 +9,7 @@
 .inputGroup {
     position: relative;
     max-width: 400px;
+    margin: auto;
 }
 .input {
     background: #fff;
@@ -19,7 +20,7 @@
     width: 100%;
 }
 .input:focus {
-    border-color: darkgreen;
+    border-color: #05828e;
 }
 .input.error:focus {
     border-color: red;
@@ -41,8 +42,8 @@
     font-size: 20px;
     padding: 5px;
     color: #fff;
-    background: darkgreen;
-    border: 2px solid darkgreen;
+    background: #05828e;
+    border: 2px solid #05828e;
     border-radius: 0 10px 10px 0;
 }
 .inputGroup button:disabled {

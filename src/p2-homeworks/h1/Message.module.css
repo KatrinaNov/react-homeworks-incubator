@@ -1,7 +1,9 @@
 .message {
     display: flex;
     align-items: flex-end;
+    justify-content: center;
     padding: 30px;
+    text-align: left;
 }
 .image {
     width: 80px;
@@ -18,7 +20,7 @@
 }
 .text {
     position: relative;
-    background: #389d75;
+    background: #05828e;
     padding: 20px;
     border-radius: 20px 20px 20px 0;
     width: 100%;
@@ -34,7 +36,7 @@
     transform: translateX(calc(-100% + 2px));
     width: 27px;
     height: 25px;
-    background: radial-gradient(circle at top left, transparent 66%, #389d75 68%);
+    background: radial-gradient(circle at top left, transparent 66%, #05828e 68%);
 }
 .text p {
     margin: 10px 0;

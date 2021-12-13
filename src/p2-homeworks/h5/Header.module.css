@@ -1,0 +1,71 @@
+.nav {
+    position: fixed;
+    height: 100%;
+    background: #05828e;
+    top: 0;
+    width: 300px;
+    transition: 1000ms all cubic-bezier(0.19, 1, 0.22, 1);
+    transform: translateX(-100%);
+    left: 60px;
+    z-index: 10;
+}
+.nav:hover {
+    transform: translateX(0%);
+    left: 0;
+}
+.hamburger {
+    cursor: pointer;
+    right: 20px;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: calc(50% - 30px);
+}
+.hamburger .line {
+    width: 100%;
+    height: 4px;
+    background-color: #fff;
+    position: absolute;
+    transition: all 0.5s;
+}
+.hamburger .line:nth-child(2) {
+    top: 50%;
+    margin-top: -2px;
+}
+.hamburger .line:nth-child(3) {
+    bottom: 0;
+}
+.nav:hover .hamburger .line:nth-child(1) {
+    transform: rotate(45deg) translate(8px, 9px);
+}
+.nav:hover .hamburger .line:nth-child(2) {
+    display: none;
+}
+.nav:hover .hamburger .line:nth-child(3) {
+    transform: rotate(-45deg) translate(10px, -10px);
+}
+.menu {
+    margin: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    list-style: none;
+    text-align: left;
+}
+.menu  a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+    margin: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+    transition: color 0.5s;
+}
+.menu a.active {
+    color: #fddc00;
+}
+.menu a:hover {
+    color: sandybrown;
+}

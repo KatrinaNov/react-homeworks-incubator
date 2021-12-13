@@ -5,10 +5,18 @@ body {
     sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    /*background: url(./snow.png) repeat, url(./tree.png) no-repeat bottom right;*/
     background: url(./snow.png) repeat, url(./tree.png) no-repeat bottom right;
+    background-color: #e7eaef;
 }
 
 code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.homeworks > div {
+    padding: 30px;
+    border-bottom: 8px double cadetblue;
+    text-align: center;
 }

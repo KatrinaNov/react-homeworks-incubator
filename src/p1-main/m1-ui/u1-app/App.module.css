@@ -1,11 +1,13 @@
-.App>div{
-    padding: 30px;
-    border-bottom: 8px double cadetblue ;
+.App {
+    padding-left: 60px;
 }
 .App h2 {
     padding: 30px;
     margin: 0;
-    border-bottom: 8px double cadetblue ;
+    border-bottom: 8px double #05828e ;
     text-align: center;
     text-transform: uppercase;
+}
+.App h3 {
+    text-align: center;
 }

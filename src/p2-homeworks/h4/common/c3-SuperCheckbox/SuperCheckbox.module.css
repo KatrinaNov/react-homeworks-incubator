@@ -29,12 +29,10 @@
 .focused .checkbox {
     box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
 }
-
 /* Hover */
 .checkboxLabel .checkbox:hover {
     filter: brightness(110%);
 }
-
 /* Active */
 .checkboxLabel .checkbox:active {
     filter: brightness(80%);
