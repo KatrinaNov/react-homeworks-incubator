@@ -1,14 +1,16 @@
 .default {
+    outline: none;
     text-decoration: none;
     display: inline-block;
-    padding: 15px 30px;
+    padding: 10px 30px;
+    font-size: 16px;
     margin: 5px;
     position: relative;
     color: white;
     border: 1px solid rgba(255, 255, 255, .4);
+    border-radius: 4px;
     background: #05828e;
-    text-transform: uppercase;
-    letter-spacing: 2px;
+    text-transform: capitalize;
     cursor: pointer;
     transition: box-shadow 0.5s;
 }
@@ -19,6 +21,7 @@
     height: 0;
     opacity: 0;
     box-sizing: border-box;
+    border-radius: 4px;
 }
 .default:before {
     bottom: 0;

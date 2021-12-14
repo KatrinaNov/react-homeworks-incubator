@@ -46,7 +46,6 @@ function HW2() {
         data={filteredAffairs}
         setFilter={setFilter}
         deleteAffairCallback={deleteAffairCallback}
-
       />
 
       {/*для личного творчества, могу проверить*/}

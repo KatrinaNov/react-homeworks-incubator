@@ -32,10 +32,7 @@
 .buttons button {
     flex-grow: 1;
     padding: 10px;
-    border-radius: 5px;
-    outline: none;
     border: none;
-    cursor: pointer;
     margin-right: 2px;
 }
 .buttons button:nth-child(2) {
