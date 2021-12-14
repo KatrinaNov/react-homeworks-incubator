@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-homeworks-incubator/static/css/main.a6ff92d4.chunk.css",
-    "main.js": "/react-homeworks-incubator/static/js/main.fffceaea.chunk.js",
-    "main.js.map": "/react-homeworks-incubator/static/js/main.fffceaea.chunk.js.map",
+    "main.js": "/react-homeworks-incubator/static/js/main.a246a727.chunk.js",
+    "main.js.map": "/react-homeworks-incubator/static/js/main.a246a727.chunk.js.map",
     "runtime-main.js": "/react-homeworks-incubator/static/js/runtime-main.d3676d03.js",
     "runtime-main.js.map": "/react-homeworks-incubator/static/js/runtime-main.d3676d03.js.map",
     "static/js/2.b626d443.chunk.js": "/react-homeworks-incubator/static/js/2.b626d443.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.d3676d03.js",
     "static/js/2.b626d443.chunk.js",
     "static/css/main.a6ff92d4.chunk.css",
-    "static/js/main.fffceaea.chunk.js"
+    "static/js/main.a246a727.chunk.js"
   ]
 }
