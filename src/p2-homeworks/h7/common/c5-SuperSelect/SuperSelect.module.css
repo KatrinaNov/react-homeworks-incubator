@@ -9,3 +9,8 @@
 .select option {
     background: rgba(5, 130, 142, 0.5);
 }
+.select option:checked {
+    background: rgba(5, 130, 142);
+    color: #fff;
+}
+
