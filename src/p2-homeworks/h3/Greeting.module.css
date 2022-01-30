@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
 }
+
 .totalUser {
     display: inline-block;
     font-size: 1.2em;
@@ -20,7 +21,7 @@
     width: 100%;
 }
 .input:focus {
-    border-color: #05828e;
+    border-color: var(--main-color);
 }
 .input.error:focus {
     border-color: red;
@@ -42,8 +43,8 @@
     font-size: 20px;
     padding: 5px;
     color: #fff;
-    background: #05828e;
-    border: 2px solid #05828e;
+    background: var(--main-color);
+    border: 2px solid var(--main-color);
     border-radius: 0 10px 10px 0;
 }
 .inputGroup button:disabled {

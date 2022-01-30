@@ -9,7 +9,7 @@
     color: white;
     border: 1px solid rgba(255, 255, 255, .4);
     border-radius: 4px;
-    background: #05828e;
+    background: var(--main-color);
     text-transform: capitalize;
     cursor: pointer;
     transition: box-shadow 0.5s;

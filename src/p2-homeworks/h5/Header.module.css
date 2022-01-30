@@ -1,7 +1,7 @@
 .nav {
     position: fixed;
     height: 100%;
-    background: #05828e;
+    background: var(--main-color);
     top: 0;
     width: 300px;
     transition: 1000ms all cubic-bezier(0.19, 1, 0.22, 1);

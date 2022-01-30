@@ -5,7 +5,7 @@ import styled from "@emotion/styled";
 const SuperDoubleRangeElem = styled(Slider)({
   maxWidth: '400px',
   margin: '5px 20px',
-  color: '#05828e',
+  color: 'var(--main-color)',
   height: 8,
   '& .MuiSlider-track': {
     border: 'none',

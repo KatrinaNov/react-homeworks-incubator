@@ -9,7 +9,7 @@
     line-height: 28px;
     padding: 5px 10px 5px 30px;
     margin: 5px 10px;
-    color: #05828e;
+    color: var(--main-color);
     transition: all .25s linear;
     -webkit-transition: all .25s linear;
     cursor: pointer;
@@ -17,7 +17,7 @@
 .check::before {
     content: '';
     position: absolute;
-    border: 4px solid #05828e;
+    border: 4px solid var(--main-color);
     border-radius: 100%;
     height: 19px;
     width: 19px;

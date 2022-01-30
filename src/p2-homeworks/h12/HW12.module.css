@@ -1,23 +1,23 @@
-.dark {
-    background: dimgrey;
+.light {
+    background: var(--main-color);
 }
 
-.dark-text {
+.light-text {
     color: aliceblue;
 }
 
-.red {
-    background: lightcoral;
+.dark {
+    background: #2d0101;
 }
 
-.red-text {
+.dark-text {
     color: aqua;
 }
 
-.some {
-    background: lightgreen;
+.green {
+    background: darkgreen;
 }
 
-.some-text {
-    color: darkslateblue;
+.green-text {
+    color: yellow;
 }
