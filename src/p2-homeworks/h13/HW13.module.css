@@ -1,0 +1,23 @@
+.light {
+    background: var(--main-color);
+}
+
+.light-text {
+    color: aliceblue;
+}
+
+.dark {
+    background: #2d0101;
+}
+
+.dark-text {
+    color: aqua;
+}
+
+.green {
+    background: darkgreen;
+}
+
+.green-text {
+    color: yellow;
+}
